@@ -1,8 +1,8 @@
-
 int main()
 {
-	int *p = 0;
-	*p = 3;
+	while(1)
+	{
+	}
+
 	return 0;
 }
-
